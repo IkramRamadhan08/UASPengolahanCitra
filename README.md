@@ -79,7 +79,7 @@ Membuat instance dari kelas Application dan memanggil metode mainloop() untuk me
 
 * **Berikut adalah hasil dari program yang telah dibuat :**
 
-![Gambar 1](img/ss1.png)
+![Gambar 1](assets/screenshoot.png)
 
 
 * **Demo program :**
