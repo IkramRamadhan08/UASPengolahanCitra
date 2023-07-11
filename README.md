@@ -92,7 +92,7 @@ Membuat instance dari kelas Application dan memanggil metode mainloop() untuk me
 * **Berikut adalah video/demo program :**
 
 <div>
-  <img src="assets/video.gif"/>
+  <img src="assets/Video.gif"/>
 </div>
 
 
